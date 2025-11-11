@@ -29,7 +29,7 @@ Os problemas também são classificados por nível de dificuldade — Fácil, M�
 
 ## Gravação
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7i5rmzJG7yE?si=6frejaush0o-qvOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Disciplina
@@ -39,5 +39,6 @@ Este trabalho foi desenvolvido para a disciplina Estrutura de Dados 2, ministrad
 
 ## Conclusões
 Resolver questões práticas no LeetCode nos permitiu aplicar o conteúdo teórico de ordenção em situações concretas, com desafios reais e variados. Também exercitamos o pensamento algorítmico, análise de complexidade e diferentes formas.
+
 
 
