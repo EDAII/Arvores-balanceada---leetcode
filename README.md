@@ -22,7 +22,6 @@ Os problemas também são classificados por nível de dificuldade — Fácil, M�
 
 |Exercício | Dificuldade | Autor da resuloção |
 | --------| ----------- | ------------------|
-|315. Count of Smaller Numbers After Self| dificil | Heyttor |
 |701. Insert into a Binary Search Tree| medio | Heyttor |
 |1373. Maximum Sum BST in Binary Tree | dificil | Heyttor |
 
@@ -40,4 +39,5 @@ Este trabalho foi desenvolvido para a disciplina Estrutura de Dados 2, ministrad
 
 ## Conclusões
 Resolver questões práticas no LeetCode nos permitiu aplicar o conteúdo teórico de ordenção em situações concretas, com desafios reais e variados. Também exercitamos o pensamento algorítmico, análise de complexidade e diferentes formas.
+
 
